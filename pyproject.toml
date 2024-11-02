@@ -1,0 +1,6 @@
+[project]
+name ="Email-Alerts"
+version ="0.1"
+dependencies = ["python-dotenv",]
+
+
